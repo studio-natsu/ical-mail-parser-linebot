@@ -7,7 +7,9 @@
 Airbnbからの予約確認メールの内容をical形式でGoogleカレンダーへ出力されている。<br>
 カレンダーの通知Gmailを内容を自動で取得し、予約確定内容を取得し、LINEグループに通知する。
 ![image](https://github.com/user-attachments/assets/31ac412c-f549-431a-9788-5236884f21b1)
-![{D9BD34DA-660C-45B4-9D49-8D2A81162CCC}](https://github.com/user-attachments/assets/88557c70-71a5-4f25-9b5e-b603050fcf52)
+![image](https://github.com/user-attachments/assets/dafbf641-f22f-4dd8-b4a8-c88ae14ec27d)
+
+
 
 
 
