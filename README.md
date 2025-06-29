@@ -10,9 +10,6 @@ Airbnbからの予約確認メールの内容をical形式でGoogleカレンダ�
 ![image](https://github.com/user-attachments/assets/dafbf641-f22f-4dd8-b4a8-c88ae14ec27d)
 
 
-
-
-
 ---
 
 ## ⚙️ 使用技術
@@ -106,6 +103,8 @@ project-root/
 
 ## 🤍 さいごに
 ここまで読んでくれてありがとうございます！
+また、このプロジェクト作成の機会をくれた方に、感謝します。
+
 ご意見・ご質問・アドバイスお願いします🌸
 
 - GitHub: [studio-natsu](https://github.com/studio-natsu)  
