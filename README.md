@@ -1,7 +1,7 @@
 # ical-mail-parser-linebot
 
 ## 📌 概要
-- プロジェクト名：Airbnb予約確定通知LINE連携システム
+- プロジェクト名：予約確定通知LINE連携システム
 
 ## 🎯 目的
 Airbnbからの予約確認メールの内容をical形式でGoogleカレンダーへ出力されている。<br>
