@@ -108,4 +108,4 @@ project-root/
 ご意見・ご質問・アドバイスお願いします🌸
 
 - GitHub: [studio-natsu](https://github.com/studio-natsu)  
-- Mail: studio.natsu72@email.com
+- Mail: studio.natsu72@gmail.com
